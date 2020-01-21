@@ -1,0 +1,10 @@
+*~
+*.bak
+*.swp
+*.pyc
+CMakeCache.txt
+CMakeFiles
+Makefile
+ParticleFilterOutput.log
+cmake_install.cmake
+particlefiltertest
